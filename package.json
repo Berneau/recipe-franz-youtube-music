@@ -1,0 +1,13 @@
+{
+  "id": "youtubemusic",
+  "name": "Youtube Music",
+  "version": "1.0.0",
+  "description": "Youtube Music",
+  "main": "index.js",
+  "author": "Berneau",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://music.youtube.com/library/songs",
+    "hasNotificationSound": false
+  }
+}
